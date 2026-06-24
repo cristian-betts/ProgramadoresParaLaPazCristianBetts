@@ -1,0 +1,17 @@
+Comandos utilizados para la actividad: 
+
+ls
+cd Downlads/
+ls
+cd ProgramadoresParaLaPazCristianBetts/
+mkdir semana2
+cd semana2
+touch preguntas-semana2.txt
+touch reflexion-semana2.txt
+touch comandos-terminal.txt
+cd ..
+git status
+git add .
+git status
+git commit -m "Se suben las tareas de la semana 2"
+git push
