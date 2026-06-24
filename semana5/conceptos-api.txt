@@ -1,0 +1,5 @@
+¿Que hace esta ruta?
+R/= La ruta POST es una solicitud para agregar nueva información al servidor o a una base de datos (para guardar la información y que no se pierda al apagar y volver a levantar el servidor).
+
+¿Para qué podría servir en una aplicación comunitaria?
+R/= Porque así, se anexa información nueva proveniente de la comunidad para que la comunidad pueda aprovecharlo, por ejemplo, un sitio web que reuna a todos los emprendimientos de un barrio o sector, así, cada emprendimiento se registra en un sitio web por medio de solicitudes POST, o para usuarios sin emprendimiento al crearse una cuenta en dicho sitio web, para así conocer los emprendimientos, y comprar y pagar en línea, permitiendo que los emprendedores aumenten sus ganancias, y que los compradores con tan solo unos clicks apoyen dichos emprendimientos, y que esos productos lleguen a su casa.

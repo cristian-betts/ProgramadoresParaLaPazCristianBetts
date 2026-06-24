@@ -1,0 +1,5 @@
+En la primera ruta probada (http://localhost:3000) muestra en la pantalla el mensaje "Servidor activo" indicando que el servidor logró conectarse efectivmente.
+
+La segunda ruta probada fue http://localhost:3000/saludo, la cual retornó la frase "Hola comunidad", lo cual es algo característico de la ruta GET, solicita la información y la recibe, no la crea ni la actualiza ni la elimina.
+
+La última ruta probada fue http://localhost:3000/mensaje/juan, la cual es similar a la anterior, una ruta de tipo GET, la diferencia es que, como tiene la estructura /mensaje/:nombre, esta permite una solicitud diferente ante cada nuevo "nombre que recibe la ruta", pero sigue siendo una solicitud de tipo GET.
