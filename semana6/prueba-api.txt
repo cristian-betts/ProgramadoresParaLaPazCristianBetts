@@ -1,0 +1,14 @@
+La prueba que se le hizo a la ruta POST fue:
+{
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Y la respuesta obtenida (proveniente de Thunder Client) fue:
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Se recibe este mensaje porque, en respuesta a una solicitud ejecutada correctamente, el código retornará (res.json, que es lo que genera la respuesta) el estado de la solcitud (un mensaje pre-programado), el nombre y el mensaje de la solicitud enviada.

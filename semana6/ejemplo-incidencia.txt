@@ -1,0 +1,12 @@
+La petición enviada fue:
+{
+"tipo" : "Alcantarillado",
+"descripcion" : "Hay una alcantarilla que esta desbordando aguas residuales en la esquina del sector central del barrio El Pozon"
+}
+
+La respuesta fue:
+{
+  "mensaje": "Incidencia registrada",
+  "tipo": "Alcantarillado",
+  "descripcion": "Hay una alcantarilla que esta desbordando aguas residuales en la esquina del sector central del barrio El Pozon"
+}
