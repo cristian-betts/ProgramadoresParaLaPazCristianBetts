@@ -1,0 +1,31 @@
+Los dos ejemplos son: 
+1)
+{
+  "tipo": "Ambiente",
+  "descripcion": "Contaminación acústica por altos niveles de ruido"
+}
+
+2)
+{
+  "tipo": "Energía",
+  "descripcion": "Fallas eléctricas por sobrecalentamiento de un transformador"
+}
+
+En la solicitud GET (junto con el ejemplo inicial) se ve:
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  },
+  {
+    "id": 2,
+    "tipo": "Ambiente",
+    "descripcion": "Contaminación acústica por altos niveles de ruido"
+  },
+  {
+    "id": 3,
+    "tipo": "Energía",
+    "descripcion": "Fallas eléctricas por sobrecalentamiento de un transformador"
+  }
+]

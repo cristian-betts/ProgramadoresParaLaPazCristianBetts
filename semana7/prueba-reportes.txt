@@ -1,0 +1,16 @@
+Para hacer la prueba, se utiliza el siguiente ejemplo:
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+}
+
+La respuesta obtenida por GET fue: 
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
+La respuesta constituye a una respusta normal de tipo GET, se solicitan los reportes exixtentes y los devuelve todos, dado que están guardados en un vector (la línea de código let reportes = [], los corchetes son para vectores), la información esta guardada entre vectores, y dado que el reporte fue definido como un objeto, la información del reporte está dentro de llaves.
