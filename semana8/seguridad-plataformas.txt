@@ -1,0 +1,9 @@
+1. Utilizar contraseñas seguras.
+
+2. Asignar roles y permisos.
+
+3. Mantener el software actualizado.
+
+4. Proteger la información de los usuarios.
+
+5. Implementar autenticación en dos factores (2FA).

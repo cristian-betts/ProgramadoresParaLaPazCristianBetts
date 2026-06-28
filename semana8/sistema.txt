@@ -1,0 +1,11 @@
+La información del comando uname -a: MINGW64_NT-10.0-19044 DESKTOP-RQDNJBT 3.5.7-463ebcdc.x86_64 2025-03-03 17:26 UTC x86_64 Msys
+
+La información del comando whoami: Usuario.
+
+Esta información se ejecutó desde la carpeta seguridad.
+
+uname -a muestra información detallada del sistema operativo, incluyendo el nombre del sistema, el nombre del equipo (hostname), la versión del kernel, la arquitectura del procesador y otros datos relacionados. Es útil para identificar las características del servidor y verificar que se esté trabajando en el sistema correcto.
+
+whoami muestra el nombre del usuario que está ejecutando la sesión actual. Sirve para confirmar con qué cuenta se está trabajando, lo que es importante porque los permisos y privilegios dependen del usuario.
+
+Conocer la información del sistema permite verificar el entorno en el que se está trabajando, identificar la versión del sistema operativo y la arquitectura del servidor, y confirmar el usuario con el que se ejecutan los comandos. Esto ayuda a evitar errores de configuración, instalar software compatible, solucionar problemas de manera más eficiente y garantizar que las tareas administrativas se realicen con los permisos adecuados.
