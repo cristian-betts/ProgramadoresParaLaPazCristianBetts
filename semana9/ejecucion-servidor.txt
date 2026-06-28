@@ -1,0 +1,8 @@
+Cuando se levanta el servidor (hacer node server.js), salió el mensaje preprogramado en la terminal "servidor ejecutándose en el puerto 3000", y en la petición GET (usando thunderclient), también salió el mensaje preprogramado "Servidor activo y funcionando" indica que el servidor se levantó y funciona correctamente.
+
+Cuando se visita la ruta /estado, se obtiene el siguiente mensaje:
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}
+Esta es otra ruta de tipo GET, lo que significa que obtiene información del código, como un mensaje, que en este caso fue preprogramado, indicando que la ruta fue programada correctamente y que funciona.
