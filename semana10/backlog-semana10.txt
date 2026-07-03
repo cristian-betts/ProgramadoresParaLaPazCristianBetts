@@ -1,0 +1,11 @@
+Historias de usuario (ordenadas por prioridad):
+
+1. Como coordinador de la veeduría quiero asignar cada caso a un responsable para asegurar que todas las incidencias reciban atención y seguimiento.
+
+2. Como ciudadano quiero adjuntar fotografías y la ubicación de una incidencia para aportar evidencia que facilite su verificación.
+
+3. Como miembro del equipo quiero filtrar las incidencias por estado, fecha o sector para identificar rápidamente los casos que requieren atención.
+
+4. Como administrador quiero generar un reporte con las incidencias atendidas y pendientes para evaluar el desempeño del equipo y planificar nuevas acciones.
+
+5. Como voluntario quiero recibir un recordatorio automático de las tareas próximas a vencer para cumplir los tiempos establecidos y evitar retrasos.

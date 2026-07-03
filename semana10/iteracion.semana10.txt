@@ -1,0 +1,20 @@
+1. ¿Qué 2 tareas del backlog harías primero?
+
+* Implementar el registro de incidencias.
+* Asignar cada incidencia a un responsable para su seguimiento.
+
+2. ¿Por qué son las más importantes?**
+
+Estas tareas son prioritarias porque constituyen la base del sistema de veeduría. Sin el registro de incidencias no existiría información para gestionar, y sin la asignación de responsables no habría un seguimiento claro de cada caso. Al completar estas funciones, el equipo puede comenzar a trabajar de manera organizada y eficiente.
+
+3. ¿Qué significa para ti que una tarea esté “terminada”?**
+
+Una tarea está terminada cuando cumple con los requisitos definidos, funciona correctamente y está lista para ser utilizada por el equipo sin presentar errores conocidos.
+
+Definición de terminado
+
+Una tarea se considera terminada cuando:
+
+* Funciona correctamente y cumple con los requisitos establecidos.
+* Fue probada y no presenta errores importantes.
+* Quedó registrada en Git con su respectivo commit y se integró al proyecto.

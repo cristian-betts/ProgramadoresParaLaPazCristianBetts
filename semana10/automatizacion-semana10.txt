@@ -1,0 +1,8 @@
+Evento que activa el flujo:
+Una incidencia cambia de estado a "resuelta" dentro de la plataforma.
+
+Mensaje que se enviaría a Telegram:
+"Se ha actualizado el estado de una incidencia a "Resuelta". Ingresa al sistema para consultar los detalles y cerrar el seguimiento si corresponde."
+
+Información que no debería enviarse por seguridad:
+No se deben enviar datos personales de los ciudadanos, como nombres completos, números de identificación, direcciones, teléfonos, correos electrónicos, fotografías privadas ni información que pueda revelar la ubicación exacta de las personas involucradas.
