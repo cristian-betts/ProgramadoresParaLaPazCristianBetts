@@ -1,0 +1,26 @@
+Entidad: Evento comunitario
+
+Campos principales:
+
+id
+nombre
+descripcion
+fecha_evento
+lugar
+estado
+
+Propósito:
+Almacenar la información de los eventos organizados por la comunidad, permitiendo consultar su programación, estado y detalles para facilitar la participación de los ciudadanos.
+
+Entidad: Inscripción
+
+Campos principales:
+
+id
+evento_id
+nombre_participante
+fecha_inscripcion
+asistencia
+
+Propósito:
+Registrar las personas inscritas en cada evento comunitario y hacer seguimiento a su participación, lo que permite conocer el nivel de asistencia y apoyar la planificación de futuras actividades.
