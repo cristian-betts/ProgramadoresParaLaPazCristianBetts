@@ -1,0 +1,9 @@
+Ejemplo de flujo
+
+1. El ciudadano inicia sesión o crea una cuenta en la plataforma.
+2. Completa un formulario con el título, la descripción y la categoría de la causa.
+3. El sistema verifica que la información esté completa y guarda la petición en la base de datos.
+4. La causa se publica para que otros usuarios puedan consultarla y conocer su estado.
+5. Los ciudadanos registrados pueden expresar su apoyo y dejar un comentario opcional.
+6. El sistema actualiza automáticamente el número de apoyos y muestra el progreso de la causa.
+7. Cuando la causa alcanza la cantidad de apoyos establecida, el sistema genera un reporte con la información recopilada para presentarlo a la entidad correspondiente.

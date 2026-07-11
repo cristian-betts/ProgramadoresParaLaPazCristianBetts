@@ -1,0 +1,5 @@
+Evento: Una causa alcanza la cantidad mínima de apoyos establecida para ser revisada.
+
+Mensaje: "La causa ha alcanzado el número de apoyos requerido y está lista para su revisión."
+
+Información que no debe enviarse: Nombres completos de los ciudadanos, correos electrónicos, contraseñas, documentos de identidad ni cualquier otro dato personal o información confidencial de los usuarios.

@@ -1,0 +1,20 @@
+Entidad: Causa
+
+* id
+* titulo
+* descripcion
+* categoria
+* fecha_creacion
+
+¿Para qué sirve?
+Almacena la información principal de cada iniciativa ciudadana, permitiendo identificarla, clasificarla y darle seguimiento dentro de la plataforma.
+
+Entidad: Apoyo
+
+* id
+* causa_id
+* usuario
+* fecha_apoyo
+
+¿Para qué sirve?
+Registra cada manifestación de respaldo realizada por los usuarios y la relaciona con una causa específica para llevar el control de la participación y el total de apoyos recibidos.
