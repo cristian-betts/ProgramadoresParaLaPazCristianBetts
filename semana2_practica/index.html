@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario Participa</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    
+    <main>
+        <section class="Contenedor">
+            <h1>FORMULARIO PARTICIPA</h1>
+
+            <p>
+                Este formulario permite recoger propuestas, ideas o necesidades de la comunidad.
+                La información será usada únicamente con fines de participación y organización comunitaria.
+            </p>
+
+            <form>
+                <div class="campo">
+                    <label for="nombre">Nombre</label>
+                    <input type="text" id="nombre" name="nombre" placeholder="Escribe tu nombre" required>
+                </div>
+
+                <div class="campo">
+                    <label for="propuesta">Propuesta o Mensaje</label>
+                    <textarea name="propuesta" id="propuesta" placeholder="Escribe tu propuesta para la comunidad" required></textarea>
+                </div>
+
+                <div class="campo">
+                    <label for="contacto">Correo electrónico o teléfono personal</label>
+                    <input type="text" id="contacto" name="contacto" placeholder="Este campo es opcional">
+                </div>
+
+                <div class="campo">
+                    <label>
+                        <input type="checkbox" name="consentimiento">
+                        Acepto que mi información sea utilizada únicamente para fines de participación comunitaria
+                    </label>
+                </div>
+
+                <button type="submit">Enviar participación</button>
+            </form>
+        </section>
+    </main>
+</body>
+</html>
