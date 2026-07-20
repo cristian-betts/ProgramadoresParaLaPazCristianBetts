@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Cliente Web Comunitario</title>
+</head>
+<body>
+    <main>
+        <h1>Cliente  web comunitario</h1>
+
+        <p>
+            Esta página usa un fetch para consultar información del servidor y enviar propuestas comunitarias.
+        </p>
+
+        <section id="consultar">
+            <h2>Consultar Información</h2>
+
+            <button id="btnCampania">Consultar Campaña</button>
+            <button id="btnAvisos">Consultar Avisos</button>
+
+            <p id="respuestaConsulta">Aquí aparecerá la respuesta del servidor.</p>
+        </section>
+
+        <section>
+            <h2>Enviar Propuesta</h2>
+            <label for="propuesta">Escribe una propuesta comunitaria:</label>
+            <br>
+            <textarea id="propuesta" rows="5" cols="50">Crear un canal comunitario de información verificada.</textarea>
+            <br>
+            <button id="btnEnviar">Enviar propuesta</button>
+        </section>
+    </main>
+
+    <script src="/app.js"></script>
+</body>
+</html>
