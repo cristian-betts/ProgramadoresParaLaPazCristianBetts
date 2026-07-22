@@ -1,0 +1,17 @@
+[
+    {
+        "titulo": "Verificación antes de compartir",
+        "mensaje": "Antes de reenviar información, revisa la fuente, confirma la fecha y evita mensajes alarmistas.",
+        "categoria": "prevencion-desinformacion"
+    },
+    {
+         "titulo": "Convivencia digital",
+        "mensaje": "Participa con respeto, evita ataques personales y usa lenguaje claro en los espacios comunitarios.",
+        "categoria": "cultura-de-paz"
+    },
+    {
+         "titulo": "Aviso de reunión comunitaria",
+        "mensaje": "La proxima reunión será informada por los canales oficiales de la comunidad.",
+        "categoria": "participacion"
+    }
+]

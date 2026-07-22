@@ -1,0 +1,16 @@
+{
+  "name": "semana4_practica3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+      "start": "node server.js",
+      "datos": "node leer-json.js"
+    },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

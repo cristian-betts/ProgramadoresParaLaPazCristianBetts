@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "titulo": "Canal de información verificada",
+    "mensaje": "Crear un canal comunitario para publicar avisos con fuente, fecha y responsable.",
+    "categoria": "prevencion-desinformacion",
+    "audiencia": "comunidad general",
+    "tono": "informativo",
+    "llamadoAccion": "Consultar únicamente los avisos publcados por canales verificados.",
+    "autor": "Equipo comunitario",
+    "estado": "recibida",
+    "revisionEditorial": "pendiente",
+    "fecha": "2026-04-26T00:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "titulo": "Avisos claros para la comunidad",
+    "mensaje": "Plicar avisos semanales con fuente, fecha y lenguaje claro para prevenir rumores.",
+    "categoria": "prevencion-desinformacion",
+    "audiencia": "comunidad general",
+    "tono": "informativo",
+    "llamadoAccion": "Consulta la información oficial antes de compartir mensajes en grupos comunitarios.",
+    "autor": "Grupo juvenil comunitario",
+    "estado": "recibida",
+    "revisionEditorial": "pendiente",
+    "fecha": "2026-07-22T00:50:29.179Z"
+  }
+]
